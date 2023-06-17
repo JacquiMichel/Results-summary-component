@@ -160,7 +160,6 @@ body{
 @media screen and (max-width:500px){
   body{
     align-items: flex-start;
-    background-color: white;
   }
 
   .card {box-shadow: none;} 
